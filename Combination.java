@@ -10,7 +10,7 @@
             System.out.println("enter the require no.");
             int j=p.nextInt(); 
             int l=c.combo(k,j);
-            System.out.println("combination of"+ " " +k+ " " + "and"+" "+j+" "+"is"+" "+l);
+            System.out.println("combination of:"+ " " +k+ " " + "and"+" "+j+" "+"is"+" "+l);
 
          }
 
